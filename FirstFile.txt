@@ -2,7 +2,11 @@ Started with GITHUB.
 Lot more to learn..Keep going
 Nothing is impossible start exploring new things and keep growing.
 
-Start learing new things
+Start learing new things....
+
+Learn selenium to do automation 
+learn Java before that
+
 
 Thanks & Regards,
 Raghavendra
